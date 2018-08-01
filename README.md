@@ -1,6 +1,12 @@
 # POS-Sales-And-Inventory-Management-System-Built-With-Codeigniter
 Web Base POS Sales And Inventory System Built Using Codeigniter Framework
 
+
+Installation
+1. Clone or Download repository
+2. Files must be put on your server's public folder for example if you are using xampp, files must be copied or cloned at "xampp/htdocs" folder.
+
+
 This Is The Login Page
 ![](images/1.PNG)
 There are 3 types of users.
